@@ -1,2 +1,1 @@
-text file for testing basic git commands
-adding data
+hello how r u
